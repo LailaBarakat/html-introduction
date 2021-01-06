@@ -261,3 +261,10 @@ textarea {
   }
 }
 
+.qoute{
+  font-style: italic;
+}
+.smaller-header{
+  font-size: x-large;
+}
+.even-smaller-header{font-size: large}
